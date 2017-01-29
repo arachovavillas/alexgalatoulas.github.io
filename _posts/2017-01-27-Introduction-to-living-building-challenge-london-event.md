@@ -9,6 +9,4 @@ What if every single act of design and construction made the world a better plac
 
 The Living Building Challenge is the world’s most rigorous proven performance standard for buildings, a regenerative design framework to create spaces that, like a flower, give more than they take.
 
-We would like to invite you to our first event and launch of a Living Building Challenge London Collaborative. You can reserve your place for the event through the link below,
-
-https://living-future.org/events/4946/
+We would like to invite you to our first event and launch of a Living Building Challenge London Collaborative. You can reserve your place for the event [here](https://living-future.org/events/4946/)
