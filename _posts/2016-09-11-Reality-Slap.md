@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Renewables, Fiction or Reality? 
-category: General
+category: Thoughts
 tags: [ 'Thoughts' ]
 ---
 What lived and died on Earth depended on two principles: natural selection and random mutation. Then the human race was evolved to dominate and bring changes in many of the pre-existing functions of our eco-system. We developed tools and technologies from landing to a different planet, up to hybridizing plants. However, we have not figure yet out the benefits of providing clean forms of energy to the buildings that provide the roof to all of these technological victories.
