@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Introduction to Living Building Challenge
-category: General
+category: Events
 tags: [ 'Events' ]
 ---
 What if every single act of design and construction made the world a better place?
