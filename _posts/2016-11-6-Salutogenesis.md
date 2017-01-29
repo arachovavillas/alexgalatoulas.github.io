@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Salutogenesis
-category: General
+category: Thoughts
 tags: [ 'Thoughts' ]
 ---
 Salutogenesis as developed by Aaron Antonovsky is the generation of health. It focuses on factors supporting human health and wellbeing but also on factors that can cause harm and illness to our health. 
