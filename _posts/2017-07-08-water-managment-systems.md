@@ -6,6 +6,7 @@ title: Water Management Systems
 category: Thoughts
 tags: [ 'Thoughts' ]
 ---
+
 TIMES ARE CHANGED!
 Four things are conspiring to make fresh water one of the most valuable commodities
 in the twenty-first century. It is the increasing world populations, climate change, man’s ever-increasing, interference with the natural flow of water and pollution. In 1990 the World Health Organization estimated that 1230 million people did not have access to adequate drinking water. By 2000 this figure was estimated to have risen by 900 million people. [7]
