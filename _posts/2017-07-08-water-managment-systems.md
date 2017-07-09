@@ -24,6 +24,7 @@ Even if water charges are relatively low, today, it is obvious within the next 5
 
 According to Water UK it is expected water rates to increase further to help water companies invest £44 billion over five years in better services, greater resilience and environmental improvements. This mean that water price could smash the £400 barrier until 2020 to accommodate for these upgrades. [2]
 
+
 Hence, using emerging technologies that are not code-compliant but are nevertheless available in the marketplace could face these challenges. These include, greywater systems, rainwater collection systems, high-efficiency irrigation systems, recirculating shower systems, regulations controlling hot-water delivery, recirculation of hot water, insulation of hot-water piping, demand-type tankless water heaters, water softeners, and drinking water treatment systems. [6]
 
 WATER CONSUMPTION ANALYSIS
@@ -63,6 +64,7 @@ Domestic water consumption can be broken down as follows,
 ![whaterver](/img/waterconsumption.png)
 Water out
 When waste water exiting the building, it can either be directed in the main sewer or to a septic tank or to use a micro-treatment plant. Personally, my favorite solution is the constructed wetlands (a.k.a. reed bed). The reason is that they do not produce sludge like a micro-treatment plant, they do not require energy to operate, they do not need to be maintained and they produce useful product. The oxygenation creates a high population of micro-organisms such as Fungi, Algae, and mosses which remove a range of contaminants from the incoming water. A simple, elegant and a restorative solution.
+
 EFFICIENT WATER SYSTEM DESIGN
 
 ![whaterver](/img/lbcwater.png)
