@@ -52,20 +52,20 @@ We see throughout the developed countries that water bills tend to increase as t
 Water use
 Nationally, the consumption of water can be broken down into three main sections,
 
-![whaterver](https://www.dropbox.com/s/g51n4kjha561duo/waterconsumption1.png?dl=0)
+![whaterver](/img/waterconsumption1.png)
 
 Given the increasing population along with the increasing demand for potable water; wasting 25% of clean water in leakages should be considered “forbidden”. To understand the amount of water being lost daily please see the table below,
 
-![whaterver](https://www.dropbox.com/s/m6c4q51lc69hht9/leaks.png?dl=0)
+![whaterver](/img//leaks.png)
 
 Domestic water consumption can be broken down as follows,
 
-![whaterver](https://www.dropbox.com/s/eklmyakscbjrqco/waterconsumption.png?dl=0)
+![whaterver](/img/waterconsumption.png)
 Water out
 When waste water exiting the building, it can either be directed in the main sewer or to a septic tank or to use a micro-treatment plant. Personally, my favorite solution is the constructed wetlands (a.k.a. reed bed). The reason is that they do not produce sludge like a micro-treatment plant, they do not require energy to operate, they do not need to be maintained and they produce useful product. The oxygenation creates a high population of micro-organisms such as Fungi, Algae, and mosses which remove a range of contaminants from the incoming water. A simple, elegant and a restorative solution.
 EFFICIENT WATER SYSTEM DESIGN
 
-![whaterver](https://www.dropbox.com/s/sszmf9zds45gpff/lbcwater.png?dl=0)
+![whaterver](/img/lbcwater.png)
 
 All rainwater is collected in a cistern. Note that the quality of rainwater is greatly depended on the collection surface. Therefore, roofs, raised beds and green roofs collect higher quality of rainwater compare to storm water collected from ground level and pavements. Pavements and ground surfaces include chemicals and oil from vehicles which are being picked up and enter our water system. A way to increase rainwater input, mild roof angles and green roofs are preferred. Both systems decrease water run-off and minimise losses.
 The water which was harvested from our site it is then being filtered. Common practise is to use 4 types for 4 different layers of filtering per system. The last filters are usually stainless steel or glass granules which filters particles down to 5microns and bring water to potable standards.
