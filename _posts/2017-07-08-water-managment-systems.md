@@ -61,7 +61,6 @@ Given the increasing population along with the increasing demand for potable wat
 Domestic water consumption can be broken down as follows,
 
 ![whaterver](https://www.dropbox.com/s/eklmyakscbjrqco/waterconsumption.png?dl=0)
-
 Water out
 When waste water exiting the building, it can either be directed in the main sewer or to a septic tank or to use a micro-treatment plant. Personally, my favorite solution is the constructed wetlands (a.k.a. reed bed). The reason is that they do not produce sludge like a micro-treatment plant, they do not require energy to operate, they do not need to be maintained and they produce useful product. The oxygenation creates a high population of micro-organisms such as Fungi, Algae, and mosses which remove a range of contaminants from the incoming water. A simple, elegant and a restorative solution.
 EFFICIENT WATER SYSTEM DESIGN
@@ -104,6 +103,5 @@ References:
 [4] Eco-house manual 2nd Edition Nigel Griffiths 2012
 [5] The sustainable bible, Tim Pulen, Ovolo Book, 2013
 [6] Handbook of Green Building Design, and Construction LEEDW, BREEAMW, and Green GlobesW, Sam Kubba, Ph.D., LEED AP, Elsevier, 2012
-
 [7] EcoHouse, A Design Guide, 4th Edition, Sue Raf with Manuel Fuentes and Stephanie Thomas-Rees, Routledge, 2013
 
