@@ -1,4 +1,3 @@
-
 ---
 layout: post
 section-type: post
@@ -24,6 +23,7 @@ Today, an average person in the UK consumes 150l/day of clean potable water when
 Even if water charges are relatively low, today, it is obvious within the next 5-10 years will no longer be the case. [3] The above realities will increase the demand for water and strain the existing water infrastructure even further. [1]
 
 According to Water UK it is expected water rates to increase further to help water companies invest £44 billion over five years in better services, greater resilience and environmental improvements. This mean that water price could smash the £400 barrier until 2020 to accommodate for these upgrades. [2]
+
 Hence, using emerging technologies that are not code-compliant but are nevertheless available in the marketplace could face these challenges. These include, greywater systems, rainwater collection systems, high-efficiency irrigation systems, recirculating shower systems, regulations controlling hot-water delivery, recirculation of hot water, insulation of hot-water piping, demand-type tankless water heaters, water softeners, and drinking water treatment systems. [6]
 
 WATER CONSUMPTION ANALYSIS
@@ -36,11 +36,15 @@ An effective water management system is driven by the following relationship, th
 BREAM and LEED are Green Codes that help us improve efficiency of our water consumption by a percentage. LBC is a Regenerative Code that help us meet all water demands within the carrying capacity of the site and mimic natural hydrological conditions using appropriately-sized and climate specific water management systems that treat, infiltrate or re-use all water resources on site.
 The choice depends on the client understanding of today’s needs. And our responsibility is to communicate these across so he/she can make and informative decision on an investment that will have a life span of minimum 80-100 years!
 Water efficiency effectively means doing more with less. This does not mean that user lifestyle changes are required. It means efficient fittings should serve the same functionality with less water. [7]
+
 WATER -IN ≤ WATER-OUT
 This idea of the net water balance is explained in LBC3.1 Water Petal Handbook.
+
 Water In
 A ground water well could be a source of water but depending at the depth of the table water the costs associated for a borehole could be from couple of hundreds to thousands of pounds.
+
 Therefore, rainwater harvesting system it is one of the dominant strategies to collect water into our building. BS8515 it sets the minimum standards for suppliers and manufacturers and it also addresses the likelihood of cross-contamination of mains drinking water with rainwater.
+
 Rainwater harvesting, if designed appropriately, could provide with half of the daily water consumption per person. This type of water system is easier to install on new builds rather than refurbishments, because of the extensive internal plumbing work required.
 The simplest and cheapest form of rainwater harvesting system are rainwater butts. Water butts usually used to collect water for irrigation purposes. It is not logical to use high water quality for garden use, but many households are doing so. This could potentially save 30 billion litres of water each summer.
 Harvested rainwater is currently used for grey water applications such as flushing toilets, irrigation, washing the car, laundry machine etc. 
@@ -69,12 +73,16 @@ The water which was harvested from our site it is then being filtered. Common pr
 With potable water, the following systems are fed, sinks, shower taps, dish-washer and laundry machine. These are the systems that have impact on 1st degree with the user of the building.
 As for equipment, dishwashers and washing machines account for 28% of the domestic water consumption. A modern dishwasher consumes about 10litres per wash (less than washing up by hand). As for the taps, aerated taps and water reducing valves can now limit flow of water and give the same feeling during the use. Costs incurred from leaking taps and dripping taps could account to 35litres a day. 
 A restorative and regenerative trick could be to re-use the water in a grey water system instead of discharging it straight to the sewer. Toilets they do not require clean potable water to operate. 
+
 Also, toilets are the largest user of potable water in a home (30% to 35% of total consumption). So this amount of water it could be recycled. I reckon that a Dual-flush system (water consumption reduced by 20% and uses 2-4 litres per flush) or low flush toilets (water consumption reduced by 40% and 2-3 litres) are imperative. 
+
 For a normal dwelling (4ppl) Brac Systems W-200 or The AquaCycle 900 could be used. However, as technology is continuously being improved the buyer should research the market for newer products on better prices. These systems collect greywater and makes it available for all toilets. It consists a compartment tank with 200-600 liters capacity (depending on the price), a pump with pressure tank, a filter an automatic water valve and various pipes and fittings. The greywater passes through a 100micron filter and into the holding tank. The cost of the system is at about £1500-£3000.
+
 However, bear in mind that Grey water contain bacteria (including faecal coliforms) and it needs treating with care. Reed beds can be a successful part of treatment but they require proper design and attention throughout their design lives. They also require careful maintenance and monitoring, and control over which detergents, chemicals, are put into the wastewater. This demands acceptance of responsibility by users of the system. [7]
 
 Another alternative which is becoming a trend mainly in the States are Composting toilets. They are not connected to the sewer and also, they do not require water to operate. They are more expensive and usually cost around £1000 with installation.
 Lastly, once the water is about to exit the building then a popular reed bed to be used is a Horizontal Flow System. The cost is related to the size but for a normal domestic wetland of 4m2 to 6m2 the cost is about £1500 to £2000.
+
 As far as, irrigation systems I believe using certain types of plants that thrive in hot and dry conditions the need for frequent irrigation could be reduced. This offers a sustainable and a cost-effective design solution. Examples of such plants are, African Lily, Buddleia, Californian Lilac, Californian popy, Daisy Bush, Lavender, Peruvian lily, Rock rose, Tulip and others. There are many other shrubs and herbs of Mediterranean origin which require little or no watering.
 
 THOUGHTS & REMARKS
