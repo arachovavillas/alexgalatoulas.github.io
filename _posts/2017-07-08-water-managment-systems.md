@@ -8,6 +8,7 @@ tags: [ 'Thoughts' ]
 ---
 
 TIMES ARE CHANGED!
+
 Four things are conspiring to make fresh water one of the most valuable commodities
 in the twenty-first century. It is the increasing world populations, climate change, man’s ever-increasing, interference with the natural flow of water and pollution. In 1990 the World Health Organization estimated that 1230 million people did not have access to adequate drinking water. By 2000 this figure was estimated to have risen by 900 million people. [7]
 
@@ -26,6 +27,7 @@ According to Water UK it is expected water rates to increase further to help wat
 Hence, using emerging technologies that are not code-compliant but are nevertheless available in the marketplace could face these challenges. These include, greywater systems, rainwater collection systems, high-efficiency irrigation systems, recirculating shower systems, regulations controlling hot-water delivery, recirculation of hot water, insulation of hot-water piping, demand-type tankless water heaters, water softeners, and drinking water treatment systems. [6]
 
 WATER CONSUMPTION ANALYSIS
+
 We need to address two issues, the source of water we consume and how efficient we use it. The main question to be asked is how far can we stretch our design and by how much we can reduce the consumption of clean potable water from the main supply. This decision should be an assessment of economic, social and environmental perspective.
 
 ![whaterver](https://www.dropbox.com/s/t299zilboybcly0/decisionmaking.png?dl=0)
@@ -74,7 +76,9 @@ However, bear in mind that Grey water contain bacteria (including faecal colifor
 Another alternative which is becoming a trend mainly in the States are Composting toilets. They are not connected to the sewer and also, they do not require water to operate. They are more expensive and usually cost around £1000 with installation.
 Lastly, once the water is about to exit the building then a popular reed bed to be used is a Horizontal Flow System. The cost is related to the size but for a normal domestic wetland of 4m2 to 6m2 the cost is about £1500 to £2000.
 As far as, irrigation systems I believe using certain types of plants that thrive in hot and dry conditions the need for frequent irrigation could be reduced. This offers a sustainable and a cost-effective design solution. Examples of such plants are, African Lily, Buddleia, Californian Lilac, Californian popy, Daisy Bush, Lavender, Peruvian lily, Rock rose, Tulip and others. There are many other shrubs and herbs of Mediterranean origin which require little or no watering.
+
 THOUGHTS & REMARKS
+
 Everything we do it has an impact and creates a chain reaction. Therefore, we need to be accountable for our actions.
 Reading all the above I am sure some of you may think why we should decentralise from a system we as a community created in the first place? Why individuals should take the risk and responsibility to invest and maintain a system that the Water Companies currently is liable to it? Why we do not upgrade the existing infrastructure?
 The answer is simple. It is impossible to just upgrade existing infrastructure especially in cities like London the design of sewers are based upon 2000 years renewal rate. We all know that this pipework will not last 2000 years. Even if the government was forcing water utility companies to approve these works the water cost will go through the roof!
