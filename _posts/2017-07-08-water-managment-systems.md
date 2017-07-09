@@ -16,7 +16,7 @@ As weather patterns are expected to change erratically due to climate change, ri
 
 Many they do not realise that water is already a scarce resource. Waterwise argues that UK has less available water per person than most other European Countries and technically, London is drier than Istanbul.
 
-![whaterver](https://www.dropbox.com/s/myrya8mzoz1bf7j/waterdeficits.png?dl=0)
+![whaterver](/img/waterdeficits.png)
 
 Figure 1 shows that water supply deficit is to be increased greatly by 2060.
 Today, an average person in the UK consumes 150l/day of clean potable water when sustainable practise it would be about 100l/day. 
@@ -30,7 +30,7 @@ WATER CONSUMPTION ANALYSIS
 
 We need to address two issues, the source of water we consume and how efficient we use it. The main question to be asked is how far can we stretch our design and by how much we can reduce the consumption of clean potable water from the main supply. This decision should be an assessment of economic, social and environmental perspective.
 
-![whaterver](https://www.dropbox.com/s/t299zilboybcly0/decisionmaking.png?dl=0)
+![whaterver](/img/decisionmaking.png)
 
 An effective water management system is driven by the following relationship, the maximum water captured by our building must be equal or less the amount of water exiting the building while the local hydrology remains intact.
 BREAM and LEED are Green Codes that help us improve efficiency of our water consumption by a percentage. LBC is a Regenerative Code that help us meet all water demands within the carrying capacity of the site and mimic natural hydrological conditions using appropriately-sized and climate specific water management systems that treat, infiltrate or re-use all water resources on site.
