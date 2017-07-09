@@ -39,6 +39,7 @@ The choice depends on the client understanding of today’s needs. And our respo
 Water efficiency effectively means doing more with less. This does not mean that user lifestyle changes are required. It means efficient fittings should serve the same functionality with less water. [7]
 
 WATER -IN ≤ WATER-OUT
+
 This idea of the net water balance is explained in LBC3.1 Water Petal Handbook.
 
 Water In
@@ -100,11 +101,11 @@ You see, the solution lies somewhere in-between. Currently infrastructure is str
 Ignoring these realities will not solve the problem. It is a matter of educating not only engineers and designers. Those ones should be the last on your list. It’s the clients, homeowners, planners and Local Authorities that need to be educated in this subject and comprehend the necessity of adopting these strategies now.
 
 References:
-1. http://www.waterwise.org.uk/data/resources/67/Waterwise-UK-Water-Efficiency-Strategy-full-report.pdf
+ 1. http://www.waterwise.org.uk/data/resources/67/Waterwise-UK-Water-Efficiency-Strategy-full-report.pdf
  2. http://www.dailymail.co.uk/wires/pa/article-3429802/Water-bills-set-increase-despite-damning-report-pricing.html#ixzz4l728E2mh
-  3. http://www.waterwise.org.uk/data/resources/67/Waterwise-UK-Water-Efficiency-Strategy-full-report.pdf
-   4. Eco-house manual 2nd Edition Nigel Griffiths 2012
-    5. The sustainable bible, Tim Pulen, Ovolo Book, 2013
-     6. Handbook of Green Building Design, and Construction LEEDW, BREEAMW, and Green GlobesW, Sam Kubba, Ph.D., LEED AP, Elsevier, 2012
-      7. EcoHouse, A Design Guide, 4th Edition, Sue Raf with Manuel Fuentes and Stephanie Thomas-Rees, Routledge, 2013
+ 3. http://www.waterwise.org.uk/data/resources/67/Waterwise-UK-Water-Efficiency-Strategy-full-report.pdf
+ 4. Eco-house manual 2nd Edition Nigel Griffiths 2012
+ 5. The sustainable bible, Tim Pulen, Ovolo Book, 2013
+ 6. Handbook of Green Building Design, and Construction LEEDW, BREEAMW, and Green GlobesW, Sam Kubba, Ph.D., LEED AP, Elsevier, 2012
+ 7. EcoHouse, A Design Guide, 4th Edition, Sue Raf with Manuel Fuentes and Stephanie Thomas-Rees, Routledge, 2013
 
