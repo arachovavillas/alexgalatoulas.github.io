@@ -88,7 +88,7 @@ post-preview-words: 96
 
 paginate: 5
 
-email-share: True
+Projemail-share: True
 fb-share: True
 twitter-share: True
 linkedin-share: True
@@ -110,7 +110,7 @@ syntax-highlight: False
 events:
   - image: "/img/timeline/mottmac.png"
     date: "May 2017 - Today"
-    description: "Technical Advisor"
+    description: "Project Manager/Technical Advisor. Focused mainly on educational buildings, I have been appointed to manage and provide technical advise to the client for a portofolio of schools, located South and North of England. Each project have been split in three phases, Feasibility, Procurement (JCT Design and Build Contract) and Construction phase."
   - image: "/img/timeline/LONDON_LBC_collaborative_logo_web1.png"
     date: "February 2016-Today"
     description: "Official Launch of Living Building Challange Collaborative London."
