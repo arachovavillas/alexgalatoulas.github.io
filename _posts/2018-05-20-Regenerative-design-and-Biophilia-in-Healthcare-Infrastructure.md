@@ -35,9 +35,11 @@ These indicators suggest that we, as industry representatives, have the duty to 
 The scope of the following strategies is to demonstrate that their application can have direct savings to the Estate expenditure and indirect savings to the Estate but linked to patient care and staff expenditure. For example, 
 
 
- -  Direct Savings: Regenerative design processes have direct impacts on the operational and maintenance costs of the hospital estates. 
+ -  Direct Savings: 
+ Regenerative design processes have direct impacts on the operational and maintenance costs of the hospital estates. 
 
- -  Indirect Savings: Biophilic design practices can impose indirect savings by improving patient recovery time, by improving staff productivity, by reducing the amount of analgesic medication medicated and by promote healthier community living.
+ -  Indirect Savings: 
+ Biophilic design practices can impose indirect savings by improving patient recovery time, by improving staff productivity, by reducing the amount of analgesic medication medicated and by promote healthier community living.
 
 
 Regenerative design strategies (direct savings):
