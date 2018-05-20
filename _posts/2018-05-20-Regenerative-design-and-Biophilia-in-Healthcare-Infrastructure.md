@@ -6,7 +6,7 @@ category: Thoughts
 tags: [ 'Thoughts' ]
 ---
 
-Regenerative design and Biophilia, an innovative approach to NHS Infrastructure.
+_Regenerative design and Biophilia, an innovative approach to NHS Infrastructure._
 
 One of today’s challenges for NHS is the current financial crisis, rising costs of services, energy and supplies; innovations and technological breakthroughs that require more investment along with higher numbers of people to cater for. It is estimated that without radical changes to the way the system works, as demand rises, and costs rise too, the NHS will become unsustainable, with huge financial pressures and debts. If we make no changes we face a £30 billion funding gap for the NHS nationally by 2020.
 Reading the Business Plans published by practices as well as hospitals, it was evident that the NHS is suffering from generating the required monies. The emphasis in the business plan was on how to address the current economic changes. In the same documents for a particular batch of Hospitals in England it was highlighted that:
@@ -44,7 +44,7 @@ The scope of the following strategies is to demonstrate that their application c
  Biophilic design practices can impose indirect savings by improving patient recovery time, by improving staff productivity, by reducing the amount of analgesic medication medicated and by promote healthier community living.
 
 
-Regenerative design strategies (direct savings):
+_Regenerative design strategies (direct savings):_
 
 
 Buildings are by default “leaky” products, in terms of airflows and heat/cooling retention. As shown in Figure 1, the ultimate goal is to promote design strategies that will not only increase the efficiency of the operational systems of the building, but to push the envelope to net zero energy and water consumption. 
@@ -59,7 +59,7 @@ Major contributors to energy consumption are space heating/cooling, hot water an
 Regenerative design processes have direct impacts on the operational and maintenance costs of the hospital estates. 
 
 
-Biophilic design strategies (indirect savings):
+_Biophilic design strategies (indirect savings):_
 
 
 Biophilic design, therefore, is based on the attempt to transfer the innate inclination of individuals towards natural systems and processes—biophilia (Kellert et al. 2008). Supporting research over the last 25 years demonstrates that the biophilic hypothesis has merit. Incorporating the smallest elements of biophilia into the healthcare industry can:
@@ -84,7 +84,7 @@ Biophilia does not only benefits the patients; it is well known that doctors, nu
 As Biophilic design choices also boost the activity of the parasympathetic nervous system, thereby decreasing stress levels and encouraging a general sense of well-being. By promoting staff’s health, biophilic design helps to reduce sick leave, while improving satisfaction and attention levels (Browning et al. 2012; Heerwagen 2000; Raanaas et al. 2011; Ikei et al. 2014; Nieuwenhuis et al. 2014).
 
 
-Award winning Case study:
+_Award winning Case study:_
 
 
 ![whaterver](/img/khooteck1.png)
@@ -101,7 +101,7 @@ In 2005, mid-way through design, the KTPH team expanded the hospital’s blue-gr
 
 ![whaterver](/img/khooteck2.png)
 
-Concluding remarks:
+_Concluding remarks:_
 
 
 In conclusion, it is important for these strategies to be communicated as early as possible in in the project lifecycle. These strategies must be part of the ERs as well as the project specific brief.
@@ -110,7 +110,7 @@ Furthermore, evidence (research from 1981 -2014, as mentioned above) suggests th
 These strategies not only will futureproof this investment but they will also assist the Hospital funds to meet their saving targets while improving patient care and staff satisfaction. 
 
 
-References:
+_References:_
 
 
 Today's NHS - our current challenges | myhealthlondon. 2018. Today's NHS - our current challenges | myhealthlondon. [ONLINE] Available at: https://www.myhealth.london.nhs.uk/help/nhs-today. [Accessed 10 May 2018].
