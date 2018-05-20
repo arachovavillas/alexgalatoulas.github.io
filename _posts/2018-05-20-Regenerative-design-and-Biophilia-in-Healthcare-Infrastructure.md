@@ -36,9 +36,11 @@ The scope of the following strategies is to demonstrate that their application c
 
 
  -  Direct Savings: 
+ 
  Regenerative design processes have direct impacts on the operational and maintenance costs of the hospital estates. 
 
  -  Indirect Savings: 
+ 
  Biophilic design practices can impose indirect savings by improving patient recovery time, by improving staff productivity, by reducing the amount of analgesic medication medicated and by promote healthier community living.
 
 
