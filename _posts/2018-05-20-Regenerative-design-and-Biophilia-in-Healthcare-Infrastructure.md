@@ -12,17 +12,17 @@ One of today’s challenges for NHS is the current financial crisis, rising cost
 Reading the Business Plans published by practices as well as hospitals, it was evident that the NHS is suffering from generating the required monies. The emphasis in the business plan was on how to address the current economic changes. In the same documents for a particular batch of Hospitals in England it was highlighted that:
 
 
-•	34% reported the length of wait as unacceptable
-•	31% said they have received good care managing their long term condition
-•	20% of our people choose A&E rather than GP
+ -  34% reported the length of wait as unacceptable
+ -  31% said they have received good care managing their long term condition
+ -  20% of our people choose A&E rather than GP
 
 
 It is evident from the findings available that the targets for many Hospitals are to:
-•	Create Value
-•	Improve patient satisfaction
-•	Increase staff productivity 
-•	Improve staff working conditions
-•	Reduce “hard” and “soft” waste in their operations
+ -  Create Value
+ -  Improve patient satisfaction
+ -  Increase staff productivity 
+ -  Improve staff working conditions
+ -  Reduce “hard” and “soft” waste in their operations
 
 
 In their effort to address the targets, it was noticed that their primary focus is on how to optimise and achieve economic sustainability through their clinical and health services.
@@ -35,10 +35,9 @@ These indicators suggest that we, as industry representatives, have the duty to 
 The scope of the following strategies is to demonstrate that their application can have direct savings to the Estate expenditure and indirect savings to the Estate but linked to patient care and staff expenditure. For example, 
 
 
-•	Direct Savings: Regenerative design processes have direct impacts on the operational and maintenance costs of the hospital estates. 
+ -  Direct Savings: Regenerative design processes have direct impacts on the operational and maintenance costs of the hospital estates. 
 
-
-•	Indirect Savings: Biophilic design practices can impose indirect savings by improving patient recovery time, by improving staff productivity, by reducing the amount of analgesic medication medicated and by promote healthier community living.
+ -  Indirect Savings: Biophilic design practices can impose indirect savings by improving patient recovery time, by improving staff productivity, by reducing the amount of analgesic medication medicated and by promote healthier community living.
 
 
 Regenerative design strategies (direct savings):
@@ -62,10 +61,10 @@ Biophilic design strategies (indirect savings):
 Biophilic design, therefore, is based on the attempt to transfer the innate inclination of individuals towards natural systems and processes—biophilia (Kellert et al. 2008). Supporting research over the last 25 years demonstrates that the biophilic hypothesis has merit. Incorporating the smallest elements of biophilia into the healthcare industry can:
 
 
-•	Improve patient recovery time.
-•	Staff productivity.
-•	Reduction of analgesic medication.
-•	Promote healthier community living.
+ -  Improve patient recovery time.
+ -  Staff productivity.
+ -  Reduction of analgesic medication.
+ -  Promote healthier community living.
 
 
 According to Ulrich’s research, looking at greenery and nature reduces hospitalisation time by 8% (Ulrich 1984). In the past, the NHS have paid private hospitals approx. £100m to treat patients as part of efforts to cut waiting times and maintain patient care to high standards. The operations costs would be 43% less if they had been done on the NHS.  That 8% recovery time reduction could limit the need for subcontracting private hospitals.
@@ -110,9 +109,9 @@ These strategies not only will futureproof this investment but they will also as
 References:
 
 
-Today's NHS - our current challenges | myhealthlondon. 2018. Today's NHS - our current challenges | myhealthlondon. [ONLINE] Available at: https://www.myhealth.london.nhs.uk/help/nhs-today. [Accessed 10 May 2018].
-Human Spaces. 2018. Sunlight and Nature: Positive Medication in Healthcare Spaces - Human Spaces. [ONLINE] Available at: https://blog.interface.com/sunlight-and-nature-positive-medication-in-healthcare-spaces/. [Accessed 10 May 2018].
-The Living Future Institute. 2018. Award Winner: Khoo Teck Puat Hospital - The Living Future Institute. [ONLINE] Available at: https://living-future.org/biophilic/case-studies/award-winner-khoo-teck-puat-hospital/. [Accessed 10 May 2018].
-Terrapin Bright Green. 2018. The Economics of Biophilia - Terrapin Bright Green. [ONLINE] Available at: https://www.terrapinbrightgreen.com/report/economics-of-biophilia/. [Accessed 10 May 2018].
-Matthew T. Blair. 2018. Enhancing Human Health and Recovery Through Biophilic Design. [ONLINE] Available at: https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1983&context=theses. [Accessed 10 May 2018].
-City, Territory and Architecture. 2018. Applying the benefits of biophilic theory to hospital design | City, Territory and Architecture | Full Text. [ONLINE] Available at: https://cityterritoryarchitecture.springeropen.com/articles/10.1186/s40410-018-0077-5. [Accessed 10 May 2018].
+ -  Today's NHS - our current challenges | myhealthlondon. 2018. Today's NHS - our current challenges | myhealthlondon. [ONLINE] Available at: https://www.myhealth.london.nhs.uk/help/nhs-today. [Accessed 10 May 2018].
+ -  Human Spaces. 2018. Sunlight and Nature: Positive Medication in Healthcare Spaces - Human Spaces. [ONLINE] Available at: https://blog.interface.com/sunlight-and-nature-positive-medication-in-healthcare-spaces/. [Accessed 10 May 2018].
+ -  The Living Future Institute. 2018. Award Winner: Khoo Teck Puat Hospital - The Living Future Institute. [ONLINE] Available at: https://living-future.org/biophilic/case-studies/award-winner-khoo-teck-puat-hospital/. [Accessed 10 May 2018].
+ -  Terrapin Bright Green. 2018. The Economics of Biophilia - Terrapin Bright Green. [ONLINE] Available at: https://www.terrapinbrightgreen.com/report/economics-of-biophilia/. [Accessed 10 May 2018].
+ -  Matthew T. Blair. 2018. Enhancing Human Health and Recovery Through Biophilic Design. [ONLINE] Available at: https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1983&context=theses. [Accessed 10 May 2018].
+ -  City, Territory and Architecture. 2018. Applying the benefits of biophilic theory to hospital design | City, Territory and Architecture | Full Text. [ONLINE] Available at: https://cityterritoryarchitecture.springeropen.com/articles/10.1186/s40410-018-0077-5. [Accessed 10 May 2018].
