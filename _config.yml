@@ -108,7 +108,7 @@ syntax-highlight: False
 ############
 
 events:
-  - image: "/img/timeline/bbq.jpg"
+  - image: "/img/timeline/aibel.jpg"
     date: "Barbeque"
     description: "Each property accomodates a private barbeque for your own personal use"
 
