@@ -8,13 +8,11 @@ tags: [ 'Thoughts' ]
 
 _New Season Promo 2018/19_
 
-![misc](/img/newseason18.JPG )
-
 Hi all,
 
-As Arachova Villas is carrying out its usual maintenance routine, we are also receiving enquires and arranging viewings for the upcoming season 2018/19.
+![misc](/img/newseason18.JPG )
 
-Make sure to book your viewing and register your interest!
+As Arachova Villas is carrying out its usual maintenance routine, we are also receiving enquires and arranging viewings for the upcoming season 2018/19. Make sure to book your viewing and register your interest!
 
 alexander.galatoulas@gmail.com
 
