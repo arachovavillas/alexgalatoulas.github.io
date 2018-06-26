@@ -15,6 +15,7 @@ As Arachova Villas is carrying out its usual maintenance routine, we are also re
 Make sure to book your viewing and register your interest!
 
 alexander.galatoulas@gmail.com
+
 nondas.galatoulas@gmail.com
 
 Plan early your winter adventures together with Arachova Villas!
