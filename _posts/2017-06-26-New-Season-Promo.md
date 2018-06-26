@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: New Season Promo 2018/19
+title: New Season Promo 2018_19
 category: Thoughts
 tags: [ 'Thoughts' ]
 ---
