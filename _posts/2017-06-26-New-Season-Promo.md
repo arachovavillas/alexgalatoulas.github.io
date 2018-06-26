@@ -7,7 +7,7 @@ category: Thoughts
 tags: [ 'Thoughts' ]
 ---
 
-![misc](/img/timeline/newseason18.JPG)
+![misc](/img/timeline/newseason18.JPG )
 
 Hi all,
 
@@ -25,6 +25,10 @@ Plan early your winter adventures together with Arachova Villas!
 Best,
 
 Alex Galatoulas
+
+
+
+
 
 
 
