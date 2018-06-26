@@ -110,11 +110,11 @@ syntax-highlight: False
 events:
   - image: "/img/timeline/icon property type.png"
     date: "Accommodation"
-    description: "Arachova Villas offers 3 sizes of accommodation unit. Type A: 65sq.m., Type B: 120sq.m. and Type C: 185sq.m."
+    description: "Arachova Villas offers 3 sizes of accommodation units. Type A: 65sq.m., Type B: 120sq.m. and Type C: 185sq.m."
     
   - image: "/img/timeline/icon bbq .png "
     date: "Barbeque"
-    description: "Each Villa accomodates a private barbeque for your own personal use"
+    description: "Each Villa accommodates a private barbeque for your own personal use"
     
   - image: "/img/timeline/icon parking.png "
     date: "Parking"
@@ -122,7 +122,7 @@ events:
     
   - image: "/img/timeline/icon wifi.png "
     date: "Free WiFi"
-    description: "Share your experience at Arachova Villas with your friends on Social Media, any time, at no cost."
+    description: "Share your moments at Arachova Villas with your friends on Social Media, any time, at no cost."
 
 # First image of the Timeline
 
