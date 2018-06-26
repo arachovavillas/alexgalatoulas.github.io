@@ -109,8 +109,20 @@ syntax-highlight: False
 
 events:
   - image: "/img/timeline/aibel.jpg"
+    date: "Accomondation"
+    description: "Arachova Villas offers 3 sizes of accomondation unit. Type A: 65sq.m., Type B: 120sq.m. and Type C: 185sq.m."
+    
+  - image: "/img/timeline/aibel.jpg"
     date: "Barbeque"
-    description: "Each property accomodates a private barbeque for your own personal use"
+    description: "Each Villa accomodates a private barbeque for your own personal use"
+    
+  - image: "/img/timeline/aibel.jpg"
+    date: "Parking"
+    description: "Each Villa provides an exclusive resident parking area and a seperate visitor parking zone."
+    
+  - image: "/img/timeline/aibel.jpg"
+    date: "Free WiFi"
+    description: "Share your experience at Arachova Villas with your friends on Social Media, any time, at no cost."
 
 # First image of the Timeline
 
