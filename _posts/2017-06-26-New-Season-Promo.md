@@ -7,7 +7,7 @@ category: Thoughts
 tags: [ 'Thoughts' ]
 ---
 
-![misc](/img/timeline/newseason18.JPG )
+![misc](/img/newseason18.JPG )
 
 Hi all,
 
