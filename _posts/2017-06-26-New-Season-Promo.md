@@ -1,4 +1,3 @@
-
 ---
 layout: post
 section-type: post
@@ -6,6 +5,8 @@ title: New Season Promo 2018/19
 category: Thoughts
 tags: [ 'Thoughts' ]
 ---
+
+_New Season Promo 2018/19_
 
 ![misc](/img/newseason18.JPG )
 
