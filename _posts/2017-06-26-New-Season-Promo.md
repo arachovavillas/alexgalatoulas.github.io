@@ -12,7 +12,7 @@ As Arachova Villas is carrying out its usual maintenance routine, we are also re
 
 alexander.galatoulas@gmail.com     &     nondas.galas@gmail.com
 
-Plan early your winter adventures together with Arachova Villas!
+Plan early your winter adventures together with Arachova Villas! Follow us on www.instagram.com/arachovavillas.
 
 
 Best,
