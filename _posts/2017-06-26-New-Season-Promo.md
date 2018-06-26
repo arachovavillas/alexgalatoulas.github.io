@@ -1,3 +1,4 @@
+
 ---
 layout: post
 section-type: post
@@ -8,7 +9,7 @@ tags: [ 'Thoughts' ]
 
 Hi all,
 
-![misc](/img/newseason18.JPG )
+![misc](/img/newseason18.JPG)
 
 As Arachova Villas is carrying out its usual maintenance routine, we are also receiving enquires and arranging viewings for the upcoming season 2018/19. Make sure to book your viewing and register your interest!
 
@@ -29,5 +30,6 @@ Alex Galatoulas
 
 Usefull Information links:
 
--http://parnassos-ski.gr/
--http://www.visitgreece.gr/en/mainland/arachova
+http://parnassos-ski.gr/
+
+http://www.visitgreece.gr/en/mainland/arachova
