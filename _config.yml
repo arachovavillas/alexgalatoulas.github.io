@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://alexgalatoulas.github.io"
+url: "https://arachovavillas.github.io/"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Alex Galatoulas"
-title: "{ Alex Galatoulas }"
-description: "Blog and website of Alex Galatoulas, blogging thoughts and ideas for sustainable thinking . Opinions expressed are mine."
-keywords: "alex, galatoulas, civil engineering, ucl, city university, mottmacdonald, sustainable design, structural engineering, renewables, solar, eco homes, pv panels, energy efficiency, living building challenge, LBC, ILFI, Living future institute"
+author: "Arachova Villas"
+title: "Arachova Villas"
+description: ""
+keywords: "arachova, villas, winter, mountain, parnassos, greece, vacation, snow boarding, skiing, snow, resort, holidays"
 favicon: "/img/favicon.ico"
 
 ################
@@ -47,7 +47,7 @@ background-img: "../img/intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: True
+dynamic-typing: False
 shuffle: True # Shuffle the lines.
 loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
@@ -99,7 +99,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "alexgalatoulas"
+disqus-shortname: ""
 
 syntax-highlight: False
 
@@ -159,14 +159,10 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/alexandrosgalatoulas"
-  - title: "twitter"
-    url: "https://twitter.com/alexgalatoulas"
-  - title: "pinterest"
-    url: "https://pinterest.com/alexandergalato"
-  - title: "rss"
-    url: "/feed.xml"
+  - title: "instagram"
+    url: "https://instagram.com/arachovavillas"
+  - title: "facebook"
+    url: "https://facebook.com/arachovavillas"
   
 ############
 # 404 page #
