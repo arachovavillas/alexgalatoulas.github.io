@@ -1,3 +1,4 @@
+
 ---
 layout: post
 section-type: post
@@ -28,5 +29,7 @@ Alex Galatoulas
 
 
 Usefull Information links:
+
 http://parnassos-ski.gr/
+
 http://www.visitgreece.gr/en/mainland/arachova
